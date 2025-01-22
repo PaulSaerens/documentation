@@ -121,7 +121,7 @@ Flip once it's cooked on one side
 
 ## Mc & Cheese
 
-[Link](https://mealprepmanual.com/big-boy-baked-penne/)
+[Link](https://mealprepmanual.com/big-boy-mac-cheese/)
 
 ### Recipe
  * 1kg Chicken breast
@@ -137,9 +137,9 @@ Flip once it's cooked on one side
  * persil
 
 ### Nutrition Facts
-
-1037 calories
-36g Fat
-86g Carbs
-87g Proteines
-14g Sugar
+[Link](https://tools.myfooddata.com/recipe-nutrition-calculator/171265-172179-173414-564522-171413-170393-170000-170398-171077/gm-gm-gm-gm-gm-gm-wt4-gm-gm/360-450-300-450-30-150-1-450-1000/5)
+1045 calories
+38.5g Fat
+85g Carbs
+86g Proteines
+12.5g Sugar
